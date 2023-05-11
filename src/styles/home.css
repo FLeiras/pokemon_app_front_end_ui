@@ -1,0 +1,8 @@
+.container-home {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../styles/images/landing_image_3.jpg");
+  background-size: cover;
+  background-position: center right;
+  background-repeat: no-repeat;
+}
